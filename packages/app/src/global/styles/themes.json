@@ -1,0 +1,19 @@
+{
+    "dark": {
+        "colors": {
+            "primary": {
+                "default": "#053F5E",
+                "hover": "#03293D"
+            },
+            "secondary": {
+                "default": "#FC4442",
+                "hover": "#D00703"
+            },
+            "disabled":  "#EEEEEE"
+        },
+        "background": "#1B262C",
+        "text": "#fff",
+        "font": "Lato",
+        "fontUrl": "https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+    }
+}

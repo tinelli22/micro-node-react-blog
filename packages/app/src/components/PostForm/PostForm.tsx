@@ -7,7 +7,7 @@ function PostForm() {
                 <label htmlFor="input">Title</label>
                 <input type="text" name='input' />
             </div>
-            <button type="submit">Submit</button>
+            <button disabled type="submit">Submit</button>
         </S.FormWrapper>
     )
 }
